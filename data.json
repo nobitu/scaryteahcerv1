@@ -1,5 +1,5 @@
 {
     "appId":"com.scaryteacher.guide",
-    "isLive":true,
-    "moveId":"com.scary.teacher.guide"
+    "isLive":false,
+    "moveId":"com.horrible.teacher"
 }
